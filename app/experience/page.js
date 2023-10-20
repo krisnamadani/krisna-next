@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { FaLaravel } from "react-icons/fa";
 
-export default function Home() {
+export default function Experience() {
   return (
     <main className="bg-white border-gray-200 dark:bg-gray-900">
       <div className="max-w-screen-md flex flex-wrap flex-col items-center mx-auto px-4">
